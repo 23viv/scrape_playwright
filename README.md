@@ -98,3 +98,11 @@ project/
 ```
 
 ---
+# Disclaimer
+
+This project is intended for **educational and research purposes only**.
+
+Always respect a website's **robots.txt**, terms of service, and scraping policies.
+
+---
+
