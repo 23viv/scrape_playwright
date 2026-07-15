@@ -48,7 +48,7 @@ The scraper extracts the following fields:
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vtu-company-scraper.git
+git clone https://github.com/23viv/vtu-company-scraper.git
 cd vtu-company-scraper
 ```
 
